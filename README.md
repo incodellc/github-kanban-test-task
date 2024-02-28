@@ -25,13 +25,16 @@ You should use exactly the listed technologies or one of them if it is allowed:
   - React-Bootstrap
   - Semantic UI
   - Blueprint UI
+  - Chakra UI
 - State manager (on your choice):
   - Redux (or Redux-Toolkit)
   - MobX
   - Recoil
+  - Zustand
 - Testing (on your choice):
   - React Testing Library
   - Cypress
+  - Vitest
 - any other library you need
 
 ## Assessment
