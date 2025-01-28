@@ -46,6 +46,9 @@ What will we assess:
 - knowledge of React and its ecosystem: how you compose and use libraries together
 - testing: how you can test your code
 
+> **Note**<br />
+> If you use generative AI to complete the task (partially or completely) it would be nice if you could share your thoughts about motivation, experience, and results of using such AI tools.
+
 ## Mockups
 
 ![Design](./design.png)
